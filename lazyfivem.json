@@ -1,19 +1,19 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/itschip/lazyfivem/releases/download/1.0.0/lazyfivem_1.0.0_Windows_32-bit.zip",
+            "url": "https://github.com/itschip/lazyfivem/releases/download/1.0.1/lazyfivem_1.0.1_Windows_32-bit.zip",
             "bin": [
                 "lazyfivem.exe"
             ],
-            "hash": "dc02a28be0d1c2d1fd40c75a44aa383e69d01303074586f6c43cd33192d6f061"
+            "hash": "d989494ae5bf5081554249c7bd2f0eb5848759eb65b979b4c7380d71d4428a04"
         },
         "64bit": {
-            "url": "https://github.com/itschip/lazyfivem/releases/download/1.0.0/lazyfivem_1.0.0_Windows_x86_64.zip",
+            "url": "https://github.com/itschip/lazyfivem/releases/download/1.0.1/lazyfivem_1.0.1_Windows_x86_64.zip",
             "bin": [
                 "lazyfivem.exe"
             ],
-            "hash": "f9ac56c253bb20906f37ec790b0e7e4f3ff636678a7fcd4af9134da9bd4d8c58"
+            "hash": "fc979e22ed48a8d997f1031ae0c42d42d033de3d3bff62b45cfd496223ccd49e"
         }
     }
 }
